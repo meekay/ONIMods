@@ -1,0 +1,3 @@
+title: "Auto-Save Performance Metrics"
+description: "Some instrumentation for debugging performance lag during auto-save."
+staticID: "meekay.AutoSavePerformance"

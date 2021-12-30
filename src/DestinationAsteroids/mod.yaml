@@ -1,0 +1,3 @@
+title: "Show Destination POI"
+description: "Provides a better description when a rocket has its destination to an POI."
+staticID: "meekay.DestinationPOI"
