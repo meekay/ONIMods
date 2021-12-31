@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.810.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArtifactsFirst", "SortArtifactsFirst\SortArtifactsFirst.csproj", "{8A5C9200-0E86-4DBF-9F5E-30F2E5F7536B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestinationAsteroids", "DestinationAsteroids\DestinationAsteroids.csproj", "{0D86935B-B509-4C50-B71B-AA94CBC6409B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DestinationPOI", "DestinationPOI\DestinationPOI.csproj", "{0D86935B-B509-4C50-B71B-AA94CBC6409B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{EFA63DEB-9C47-4F55-B657-9ED9ED81B15E}"
 EndProject
