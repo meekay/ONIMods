@@ -81,8 +81,8 @@
 
   <Target Name="ILRepacker" AfterTargets="Build" Condition="'$(Configuration)' == 'Release'">
     <ItemGroup>
-      <InputAssemblies Include="$(OutputPath)\DestinationPOI.dll" />
-      <InputAssemblies Include="$(OutputPath)\Common.dll" />
+      <InputAssemblies Include="$(OutputPath)$(AssemblyName).dll" />
+      <InputAssemblies Include="$(OutputPath)Common.dll" />
     </ItemGroup>
     <ILRepack Parallel="true" Internalize="true" InputAssemblies="@(InputAssemblies)" LibraryPath="..\lib" TargetKind="Dll" OutputFile="$(OutputPath)$(AssemblyName).dll" />
   </Target>
