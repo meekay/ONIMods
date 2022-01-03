@@ -1,0 +1,5 @@
+﻿A simple mod for the rocket destination side screen in Spaced Out to show the destination for non-landable points-of-interest (POIs), including the Temporal Tear. Without this mod the game will show the destination as "Empty Space", which means you end up flipping between different screens to verify your flight plan.
+
+This mod is only for Spaced Out. It is a UI enhancement and will not affect gameplay.
+
+Known issues: Some POIs with longer names will cause the text to wrap, but it will still be legible and the screen will still work.
