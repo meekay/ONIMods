@@ -1,3 +1,5 @@
 A simple mod for Pedestals and rocket Artifact Transport Modules to re-order the thumbnails so that artifacts are listed first. That way you don't have to scroll all the way to the bottom and try to pick out which things you care about.
 
 This mod is a UI enhancement only and will not affect gameplay.
+
+Source is available [url=https://github.com/meekay/ONIMods] on Github[/url].

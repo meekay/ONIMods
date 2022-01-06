@@ -3,3 +3,5 @@
 This mod is only for Spaced Out. It is a UI enhancement and will not affect gameplay.
 
 Known issues: Some POIs with longer names will cause the text to wrap, but it will still be legible and the screen will still work.
+
+Source is available [url=https://github.com/meekay/ONIMods] on Github[/url].
