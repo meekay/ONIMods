@@ -15,12 +15,6 @@ namespace SortArtifactsFirst
         [HarmonyPatch(typeof(ReceptacleSideScreen), "Initialize")]
         public static class ReceptacleSideScreen_Initialize_Patch
         {
-            public static void Postfix(ReceptacleSideScreen __instance, SingleEntityReceptacle target)
-            {
-                Log($"After initialization of {__instance.gameObject?.name}, target = {target.gameObject.name}");
-                Log("possibleDepositObjectTags = " + Tag.ArrayToString(target.possibleDepositObjectTags));
-            }
-
             /// <summary>
             /// Inspects the code for ReceptacleSideScreen.Initialize() and replaces
             /// the single instruction that calls List.Sort() with one provided
